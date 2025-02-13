@@ -20,7 +20,6 @@
     margin-bottom: 1em; /* Space below the add friend section */
   }
 
-  /* Styles specific to favorite management buttons within components */
 .button-add-fav, .button-remove-fav {
     padding: 0.5em 1em; /* Uniform padding for buttons */
     border-radius: 5px; /* Rounded corners to match other UI elements */
